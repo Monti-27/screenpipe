@@ -389,4 +389,4 @@ if (isMain) {
       console.log("  Auth required for non-loopback requests (Authorization: Bearer …)");
     }
   });
-}
+};
